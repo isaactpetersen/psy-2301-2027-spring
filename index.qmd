@@ -1,5 +1,0 @@
----
-title: "Wiki for PSY:2301 – Introduction to Clinical Psychology (Spring 2025)"
----
-
-The Class Wiki includes the [course syllabus](syllabus.qmd) and miscellaneous resources.

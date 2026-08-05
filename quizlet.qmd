@@ -1,9 +1,0 @@
----
-title: "Using Quizlet to Learn Key Terms"
----
-
-1. Click on the link to below to access Quizlet for each lecture in our course
-    - <https://quizlet.com/join/47vPE4ndA?i=26ulz1&x=1rqt>
-1. Click on the lecture for which you want to learn key terms
-1. Select the Study Method you want to use
-    - "Flashcards", "Test", and "Match" are best for our course (see guidance [here](howToStudy.qmd#sec-testYourself) on how to use Quizlet to study for this class)
