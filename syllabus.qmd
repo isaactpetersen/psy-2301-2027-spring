@@ -11,7 +11,7 @@ Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
 # Course Title {#sec-title}
 
-PSY:2301 – Introduction to Clinical Psychology (Spring 2025)
+PSY:2301 – Introduction to Clinical Psychology (Spring 2027)
 
 # Course Meeting Time and Place {#sec-lectureTime}
 

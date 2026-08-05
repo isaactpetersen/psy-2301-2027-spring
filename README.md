@@ -1,7 +1,7 @@
-# PSY:2301 – Introduction to Clinical Psychology (Spring 2025)
+# PSY:2301 – Introduction to Clinical Psychology (Spring 2027)
 
-This is the code that creates the Wiki for PSY:2301 - Introduction to Clinical Psychology (Spring 2025).
-The Class Wiki is located here: **https://isaactpetersen.github.io/psy-2301-2025-spring**
+This is the code that creates the Wiki for PSY:2301 - Introduction to Clinical Psychology (Spring 2027).
+The Class Wiki is located here: **https://isaactpetersen.github.io/psy-2301-2027-spring**
 
 To render the syllabus as PDF, run the following command in your terminal (may have to make sure you have updated your TinyTex installation first: i.e., run `tinytex::install_tinytex()` in `R`):
 

@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "Class Wiki for Intro to Clinical Psychology (Spring 2025)"
+  title: "Class Wiki for Intro to Clinical Psychology (Spring 2027)"
   repo-url: https://github.com/isaactpetersen/Course-Wiki-Template
   repo-actions: [edit, source, issue]
   google-analytics: G-0BM7X404RV
   navbar:
-    title: "Class Wiki for Intro to Clinical Psychology (Spring 2025)"
+    title: "Class Wiki for Intro to Clinical Psychology (Spring 2027)"
     search: true
     tools:
       - icon: github
