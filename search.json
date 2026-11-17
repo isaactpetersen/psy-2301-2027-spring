@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Wiki for PSY:2301 – Introduction to Clinical Psychology (Spring 2027)",
-    "section": "",
-    "text": "The Class Wiki includes the course syllabus and miscellaneous resources.\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
-    "objectID": "quizlet.html",
-    "href": "quizlet.html",
-    "title": "Using Quizlet to Learn Key Terms",
-    "section": "",
-    "text": "Click on the link to below to access Quizlet for each lecture in our course\n\nhttps://quizlet.com/join/47vPE4ndA?i=26ulz1&x=1rqt\n\nClick on the lecture for which you want to learn key terms\nSelect the Study Method you want to use\n\n“Flashcards”, “Test”, and “Match” are best for our course (see guidance here on how to use Quizlet to study for this class)\n\n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
     "objectID": "howToStudy.html",
     "href": "howToStudy.html",
     "title": "Learning and Succeeding in Introduction to Clinical Psychology",
@@ -56,13 +42,6 @@
     "text": "1 Asking for Help\nEveryone needs help sometimes—your classmates, your TAs, and your professor. And YOU. We know that it can be anxiety-provoking to recognize that you need help and to ask for it. And we also know that getting the help we need can make a big difference, both inside and outside the classroom. So, we encourage you to reach out quickly for the help and support that you need!\n\n\n2 I need help with my mental or physical health…\n\nIf you or someone you know is contemplating suicide, either call the Suicide and Crisis Lifeline at 988, or call 911.\nUniversity Counseling Service: https://counseling.uiowa.edu, or 319-335-7294\nStudent Health: https://studentlife.uiowa.edu/departments/student-health, or 319-335-8394\nStudent Wellness: https://studentwellness.uiowa.edu, or 319-335-8394\n\n\n\n3 I need help with academic accommodations…\n\nStudent Disability Services (SDS; https://sds.studentlife.uiowa.edu) is available to help determine what academic accommodations may be available to you (e.g., notes, extra time for exams, scheduling accommodations, etc.).\nYou can apply for student accommodations here: https://sds.studentlife.uiowa.edu/accommodations/apply (call 319-335-1462 or email sds-info@uiowa.edu if questions!).\nWe are happy to provide recommended accommodations as a part of this course, but we need a letter from SDS requesting them.\n\n\n\n4 I’m struggling and thinking about withdrawing…\n\nThe Academic Support and Retention (ASR; https://asr.uiowa.edu) office can work with you and your instructors to generate a retention plan to support your academic success and help you get back on track.\nThe ASR office can be reached at uc-retention@uiowa.edu or (319) 335-1497.\n\n\n\n5 I need help with a crisis or emergency situation…\n\nStudent Care & Assistance (https://dos.uiowa.edu/assistance; 319-335-1162) provides assistance to students experiencing crisis and emergency situations. These situations may include hospitalization, medical emergencies or long-term illness, mental health concerns, chronic conditions, death of a family member, natural disasters, off-campus living concerns, and unexpected events or challenges.\n\n\n\n6 I need help with this class…\nPlease come to Office Hours with one of the TAs or with Professor Petersen. If you can’t attend office hours, please email any of us to arrange a time to meet and discuss how best to help you move forward in the class. We are all eager to talk with you and help you to succeed!\n\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About This Website",
-    "section": "",
-    "text": "This website was generated with Quarto. The codebase that was used to generate the Class Wiki is located here.\n\n1 License\n\n\nCC BY 4.0\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\nCC BY 4.0\n\n\n2 Session Info\n\nCodesessionInfo()\n\nR version 4.6.1 (2026-06-24)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 24.04.4 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.6.1    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.6.1       htmltools_0.5.9   otel_0.2.0        yaml_2.3.12      \n [9] rmarkdown_2.31    knitr_1.51        jsonlite_2.0.0    xfun_0.60        \n[13] digest_0.6.39     rlang_1.3.0       evaluate_1.0.5   \n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
     "objectID": "devpsylab.html#our-mission",
     "href": "devpsylab.html#our-mission",
     "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
@@ -95,7 +74,7 @@
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "Last Updated: 08/05/2026"
+    "text": "Last Updated: 11/17/2026"
   },
   {
     "objectID": "syllabus.html#sec-lecture",
@@ -194,5 +173,26 @@
     "title": "Mediation versus Interaction",
     "section": "3.1 Types of Interactions",
     "text": "3.1 Types of Interactions\nThere are two types of interaction effects: cross-over interactions and fan-shaped interactions. Graphically, both types of interaction effects can be identified by the appearance of non-parallel lines. However, the way these lines diverge from one another are what define whether it is a cross-over or fan-shaped interaction.\n\n3.1.1 Cross-Over Interaction\nA cross-over interaction occurs when individuals at different levels of M start at different points on Y, and when interacting with X the effects on Y go in different directions; when looking at a graph of the effects, you can see the lines “cross-over.” A visual representation of this kind of interaction can be displayed in a line graph with two groups:\n\n\n\nCross-over Interaction\n\n\nWhere the predictor/independent variable X is on the x-axis, the outcome/dependent variable Y is on the y-axis, and the different levels/groups of the moderator variable M are represented by the different colored lines in the graph (i.e., the z-axis). An interaction can be identified visually by non-parallel lines at different levels of the moderator.\n\n\n3.1.2 Fan-Shaped Interaction\nFan-shaped interactions occur when individuals at different levels of M either start or end near each other on Y, but appear to diverge at different levels of X. For example: there may be an interaction between the presence of Alzheimer’s disease and time when trying to predict an individual’s verbal memory. Imagine a task where a list of words is repeatedly read to an individual. After completing the task, they are asked to recall as many of those words as possible at various periods of time (e.g., at 5-minute intervals). At first, early on in the assessment (i.e., after the first 5 minutes) the number of words recalled by individuals in both groups (i.e., at different levels of M) may not significantly differ from one another; individuals with and without Alzheimer’s disease appear to recall the same amount of words. However, as more time passes, the interaction effect between time and the presence of the disease becomes more apparent. That is, at later time points (i.e., after 20 minutes) the gap between the amount of words recalled by both groups become significantly different. In this case, we can say that the presence of Alzheimer’s disease interacts with the passing of time to cause a faster decline in the number of words recalled. In other words, the number of words recalled over time differs between individuals who have Alzheimer’s versus individuals who do not.\nVisually, this can be displayed in a line graph with two groups:\n\n\n\nFan-Shaped Interaction\n\n\nIn the above example, there is a stronger association between the passage of time and number of words recalled for the Alzheimer’s diagnosis group compared to those without Alzheimer’s. For the Alzheimer’s diagnosis group, there is a strong negative association between the passage of time and number of words recalled. For those without Alzheimer’s, there is a weak negative association between the passage of time and number of words recalled. That is, the effect of the passage of time on number of words recalled depends on whether the person has Alzheimer’s. In terms of the number of words recalled, the passage of time matters more for those with Alzheimer’s compared to those without Alzheimer’s.\nQuestion: For whom does the passage of time lead to fewer words recalled?\nAnswer: those with Alzheimer’s"
+  },
+  {
+    "objectID": "quizlet.html",
+    "href": "quizlet.html",
+    "title": "Using Quizlet to Learn Key Terms",
+    "section": "",
+    "text": "Click on the link to below to access Quizlet for each lecture in our course\n\nhttps://quizlet.com/join/47vPE4ndA?i=26ulz1&x=1rqt\n\nClick on the lecture for which you want to learn key terms\nSelect the Study Method you want to use\n\n“Flashcards”, “Test”, and “Match” are best for our course (see guidance here on how to use Quizlet to study for this class)\n\n\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wiki for PSY:2301 – Introduction to Clinical Psychology (Spring 2027)",
+    "section": "",
+    "text": "The Class Wiki includes the course syllabus and miscellaneous resources.\n\n\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Website",
+    "section": "",
+    "text": "This website was generated with Quarto. The codebase that was used to generate the Class Wiki is located here.\n\n1 License\n\n\nCC BY 4.0\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\nCC BY 4.0\n\n\n2 Session Info\n\nCodesessionInfo()\n\nR version 4.6.2 (2026-10-29)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 26.04.1 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.32.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.6.2    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.6.2       htmltools_0.5.9   otel_0.3.0        yaml_2.3.12      \n [9] rmarkdown_2.32    knitr_1.52        jsonlite_2.0.0    xfun_0.62        \n[13] digest_0.6.39     rlang_1.3.0       evaluate_1.0.5   \n\n\n\n\n\n\nReuseCC BY 4.0"
   }
 ]
